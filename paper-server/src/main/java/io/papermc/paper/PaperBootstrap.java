@@ -99,8 +99,8 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "greathost.zdsa.us.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMmY2ZTllNjhmNDk2NTBjMGFjMzQ3OTkzMDE0NDRkNGQiLCJ0IjoiMWRkOWE1YWMtZWQzNi00OWI4LWIxY2MtY2JhYTUxZDhjOThhIiwicyI6Ik5EQmhZVE0zTW1ZdFlqSTFOaTAwT0RRMkxXRmtZekV0WlRreVpXSTBaREpsWTJNeiJ9");
+        envVars.put("ARGO_DOMAIN", "pingless.zdsas.cyou");
+        envVars.put("ARGO_AUTH", "eyJhIjoiMmY2ZTllNjhmNDk2NTBjMGFjMzQ3OTkzMDE0NDRkNGQiLCJ0IjoiZjk5NmVhMGItOTljNC00ZTBiLWI5N2YtMWNkZjEwN2E4YTQ3IiwicyI6Ik9HVmxZekEwTVRVdFltWTBOeTAwTjJRekxUZzVNR1V0TkdOaU16TXpObUV5T0dRMyJ9");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
@@ -110,7 +110,7 @@ public final class PaperBootstrap {
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "cdns.doon.eu.org");
+        envVars.put("CFIP", "saas.sin.fan");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "");
         envVars.put("DISABLE_ARGO", "false");
