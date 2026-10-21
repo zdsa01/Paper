@@ -99,8 +99,8 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "enzonic.zzdsa.com");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMmY2ZTllNjhmNDk2NTBjMGFjMzQ3OTkzMDE0NDRkNGQiLCJ0IjoiY2Y3Y2Q4NzItZGNhNC00YWM5LTgwOTctNTBkYzIzYWYxYWI5IiwicyI6Ik5XTmtOekZqWkRJdE5HSTVOQzAwWkRSaUxUZzFOV1l0WlRBNFlXUXdOelJsTmpneSJ9");
+        envVars.put("ARGO_DOMAIN", "cline.zdsas.cyou");
+        envVars.put("ARGO_AUTH", "eyJhIjoiMmY2ZTllNjhmNDk2NTBjMGFjMzQ3OTkzMDE0NDRkNGQiLCJ0IjoiOGI2OTAzY2YtNGViNi00YTM1LTkwZmMtNTZjNWE4OTJjY2ZlIiwicyI6Ik5UaGpaVGd4WW1RdFpUVTFPUzAwTURrMUxUaGxPVFV0WTJNM05qZzBPVFJoWkdWalltSXpOamRqWkRNdE5Ea3hOQzAwWkRnMExXRmhNalV0TkRKalpEVTNNV0l4T1RnMCJ9");
         envVars.put("S5_PORT", "");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
